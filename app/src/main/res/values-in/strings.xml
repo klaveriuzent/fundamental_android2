@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Submission 2</string>
+
+    <string name="id">ID :</string>
+    <string name="account_type">Tipe akun :</string>
+    <string name="location">Lokasi</string>
+    <string name="repositories">Repository</string>
+    <string name="repository">Repositori</string>
+    <string name="company">Perusahaan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan nama user</string>
+
+    <string name="tab_text_1">PENGIKUT</string>
+    <string name="tab_text_2">MENGIKUTI</string>
+
+    <string name="app_description">Memudahkan anda mencari "USER" lain yang terhubung langsung ke Github.</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+
+</resources>

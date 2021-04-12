@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fundamental Android 2</string>
+
+    <string name="id">ID :</string>
+    <string name="account_type">Account type :</string>
+    <string name="location">Location</string>
+    <string name="repositories">Repository</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Input user name</string>
+
+    <string name="tab_text_1">FOLLOWER</string>
+    <string name="tab_text_2">FOLLOWING</string>
+
+    <string name="app_description">Makes it easy for you to find "USERS" that are directly connected to Github.</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+</resources>
